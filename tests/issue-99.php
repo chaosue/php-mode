@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Github Issue:    https://github.com/ejmr/php-mode/issues/99
  *
